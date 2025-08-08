@@ -1,0 +1,35 @@
+Cmp-Mod V01 Created by PcbNew   date = 2025-08-08T18:33:20+0200
+
+BeginCmp
+TimeStamp = e40723ff-4336-4bb4-85e1-6bc2da8d053a
+Path = /13b96789-3c9d-4c46-bfd1-2a1f3f91d988
+Reference = M1;
+ValeurCmp = Motor_Servo;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 27f3b2e2-243f-484b-a9cf-c5f971547d70
+Path = /de9eaedb-1a4f-4039-843c-4509c8e6d51d
+Reference = J2;
+ValeurCmp = Joystick_module;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 9ba847bf-8f6e-477e-ac99-7c3ccd8eb32c
+Path = /ad27ac96-2e4c-4f47-a27e-6254189a8900
+Reference = J1;
+ValeurCmp = Barrel_Jack_Switch;
+IdModule  = Connector_BarrelJack:BarrelJack_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 4cd83b1a-31d7-41b6-9dc8-adbfb2040d9c
+Path = /b46e61c1-a609-4864-b694-7d50a150f9a7
+Reference = A1;
+ValeurCmp = Arduino_UNO_R3;
+IdModule  = Module:Arduino_UNO_R3_WithMountingHoles;
+EndCmp
+
+EndListe

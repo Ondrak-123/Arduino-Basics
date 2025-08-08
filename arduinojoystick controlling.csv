@@ -1,0 +1,5 @@
+"Id";"Označení";"Pouzdro";"Počet";"Označení";"Tisk rohového razítka";
+1;"M1";"PinHeader_1x03_P2.54mm_Vertical";1;"Motor_Servo";;;
+2;"J2";"PinHeader_1x05_P2.54mm_Vertical";1;"Joystick_module";;;
+3;"J1";"BarrelJack_Horizontal";1;"Barrel_Jack_Switch";;;
+4;"A1";"Arduino_UNO_R3_WithMountingHoles";1;"Arduino_UNO_R3";;;
